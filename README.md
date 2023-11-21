@@ -1,1 +1,6 @@
-# Arabic_SA
+# Arabic Aentiment Analysis 
+In this project, we perform sentiment analysis on a given dataset using Arabic language models. The project involves leveraging advanced natural language processing (NLP) techniques and machine learning models, specifically utilizing the Camel Tools Sentiment Analyzer and Hugging Face Transformers library. The primary steps include loading pre-trained Arabic language models, tokenizing and preprocessing text data, and predicting sentiment labels or scores for specific target words or phrases within the dataset.
+
+The Sentiment Analyzer from Camel Tools is employed to classify the sentiment of Arabic text, and the Hugging Face Transformers library is used for more advanced sentiment analysis, including predicting sentiment scores. The project demonstrates the process of adapting code for sentiment analysis, handling Arabic text, and visualizing the results. Additionally, modifications are made to capture sentiment scores instead of traditional labels, allowing for a more nuanced understanding of sentiment in the analyzed text.
+
+Throughout the project, we make use of popular Python libraries such as pandas for handling data, Matplotlib for data visualization, and torch for working with PyTorch-based models. The goal is to gain insights into the sentiment expressed in Arabic text, especially focusing on specific target words or phrases, and to present the results in an accessible and interpretable manner.
